@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.local/
+*.log
+.pytest_cache/
+risk_scores.csv
+.env
+.env.*
+!.env.example
+# The small historical benchmark artifacts are intentionally included.
